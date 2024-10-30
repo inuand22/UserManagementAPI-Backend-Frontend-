@@ -1,0 +1,33 @@
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\Excepciones\bin\Debug\net8.0\Excepciones.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\Excepciones\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\Excepciones\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\Excepciones\obj\Debug\net8.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\Excepciones\obj\Debug\net8.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\Excepciones\obj\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\Excepciones\obj\Debug\net8.0\refint\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\Excepciones\obj\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\Excepciones\obj\Debug\net8.0\ref\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\Excepciones\bin\Debug\net8.0\Excepciones.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\Excepciones\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\Excepciones\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\Excepciones\obj\Debug\net8.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\Excepciones\obj\Debug\net8.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\Excepciones\obj\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\Excepciones\obj\Debug\net8.0\refint\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\Excepciones\obj\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\Excepciones\obj\Debug\net8.0\ref\Excepciones.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\Excepciones\bin\Debug\net8.0\Excepciones.deps.json
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\Excepciones\bin\Debug\net8.0\Excepciones.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\Excepciones\bin\Debug\net8.0\Excepciones.pdb
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\Excepciones\obj\Debug\net8.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\Excepciones\obj\Debug\net8.0\Excepciones.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\Excepciones\obj\Debug\net8.0\Excepciones.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\Excepciones\obj\Debug\net8.0\refint\Excepciones.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\Excepciones\obj\Debug\net8.0\Excepciones.pdb
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\Excepciones\obj\Debug\net8.0\ref\Excepciones.dll

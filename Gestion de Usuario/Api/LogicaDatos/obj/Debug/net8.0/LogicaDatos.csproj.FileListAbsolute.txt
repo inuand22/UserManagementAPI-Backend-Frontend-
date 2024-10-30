@@ -1,0 +1,114 @@
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\bin\Debug\net8.0\LogicaDatos.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\bin\Debug\net8.0\LogicaDatos.runtimeconfig.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\bin\Debug\net8.0\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\bin\Debug\net8.0\LogicaDatos.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\obj\Debug\net8.0\LogicaDa.B8F08538.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\obj\Debug\net8.0\refint\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.genruntimeconfig.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api\LogicaDatos\obj\Debug\net8.0\ref\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\bin\Debug\net8.0\LogicaDatos.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\bin\Debug\net8.0\LogicaDatos.runtimeconfig.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\bin\Debug\net8.0\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\bin\Debug\net8.0\LogicaDatos.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\obj\Debug\net8.0\LogicaDatos.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\obj\Debug\net8.0\LogicaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\obj\Debug\net8.0\LogicaDatos.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\obj\Debug\net8.0\LogicaDatos.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\obj\Debug\net8.0\LogicaDatos.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\obj\Debug\net8.0\LogicaDa.B8F08538.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\obj\Debug\net8.0\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\obj\Debug\net8.0\refint\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\obj\Debug\net8.0\LogicaDatos.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\obj\Debug\net8.0\LogicaDatos.genruntimeconfig.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\Api - Backend - 24-10 - 1300\LogicaDatos\obj\Debug\net8.0\ref\LogicaDatos.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\bin\Debug\net8.0\LogicaDatos.deps.json
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\bin\Debug\net8.0\LogicaDatos.runtimeconfig.json
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\bin\Debug\net8.0\LogicaDatos.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\bin\Debug\net8.0\LogicaDatos.pdb
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\bin\Debug\net8.0\Excepciones.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\bin\Debug\net8.0\Excepciones.pdb
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\obj\Debug\net8.0\LogicaDatos.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\obj\Debug\net8.0\LogicaDatos.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\obj\Debug\net8.0\LogicaDatos.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\obj\Debug\net8.0\LogicaDatos.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\obj\Debug\net8.0\LogicaDatos.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\obj\Debug\net8.0\LogicaDa.B8F08538.Up2Date
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\obj\Debug\net8.0\LogicaDatos.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\obj\Debug\net8.0\refint\LogicaDatos.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\obj\Debug\net8.0\LogicaDatos.pdb
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\obj\Debug\net8.0\LogicaDatos.genruntimeconfig.cache
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 25-10 - 1130\LogicaDatos\obj\Debug\net8.0\ref\LogicaDatos.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\LogicaDatos.deps.json
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\LogicaDatos.runtimeconfig.json
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\LogicaDatos.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\LogicaDatos.pdb
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\Excepciones.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\Excepciones.pdb
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDa.B8F08538.Up2Date
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\refint\LogicaDatos.dll
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.pdb
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.genruntimeconfig.cache
+F:\USUARIO\Desktop\ORT\Gestion de Usuarios\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\ref\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\refint\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\LogicaDatos.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\LogicaDatos.runtimeconfig.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\LogicaDatos.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDa.B8F08538.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\LogicaDatos.genruntimeconfig.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\27-10 Gestion de Usuario Lista -- Falta TelefonosUsuario --\Api - Backend - 26-10-1200hs\LogicaDatos\obj\Debug\net8.0\ref\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\bin\Debug\net8.0\LogicaDatos.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\bin\Debug\net8.0\LogicaDatos.runtimeconfig.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\bin\Debug\net8.0\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\bin\Debug\net8.0\LogicaDatos.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\obj\Debug\net8.0\LogicaDa.B8F08538.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\obj\Debug\net8.0\refint\LogicaDatos.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\obj\Debug\net8.0\LogicaDatos.genruntimeconfig.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\28-10\Gestion de Usuario\Api\LogicaDatos\obj\Debug\net8.0\ref\LogicaDatos.dll

@@ -1,0 +1,46 @@
+INSERT INTO Usuarios (Ci_Valor, EsMasculino, FechaNacimiento, Nombre_Valor, Apellido_Valor, Email_Valor, Pass_Valor, RolId)
+VALUES 
+    ('4912508-7', 1, '1985-01-01', 'Admin', 'User', 'admin@example.com', 'hashedPassword1', 1),  -- Admin user
+    ('6748392-1', 1, '1990-05-12', 'User1', 'Example', 'user1@example.com', 'hashedPassword2', 2),
+    ('1836472-9', 0, '1992-07-23', 'User2', 'Example', 'user2@example.com', 'hashedPassword3', 2),
+    ('2947516-8', 1, '1988-03-14', 'User3', 'Example', 'user3@example.com', 'hashedPassword4', 2),
+    ('8273641-5', 0, '1995-08-19', 'User4', 'Example', 'user4@example.com', 'hashedPassword5', 2),
+    ('6384725-1', 1, '1982-11-22', 'User5', 'Example', 'user5@example.com', 'hashedPassword6', 2),
+    ('5463712-9', 1, '1987-02-18', 'User6', 'Example', 'user6@example.com', 'hashedPassword7', 2),
+    ('7192845-6', 0, '1993-04-25', 'User7', 'Example', 'user7@example.com', 'hashedPassword8', 2),
+    ('3847261-9', 1, '1986-06-30', 'User8', 'Example', 'user8@example.com', 'hashedPassword9', 2),
+    ('8273641-9', 1, '1994-12-04', 'User9', 'Example', 'user9@example.com', 'hashedPassword10', 2),
+    ('1928374-5', 1, '1983-09-08', 'User10', 'Example', 'user10@example.com', 'hashedPassword11', 2),
+    ('2983746-5', 0, '1991-10-13', 'User11', 'Example', 'user11@example.com', 'hashedPassword12', 2),
+    ('4829375-1', 1, '1997-01-17', 'User12', 'Example', 'user12@example.com', 'hashedPassword13', 2),
+    ('5973284-6', 0, '1989-03-15', 'User13', 'Example', 'user13@example.com', 'hashedPassword14', 2),
+    ('7162938-5', 1, '1998-02-21', 'User14', 'Example', 'user14@example.com', 'hashedPassword15', 2),
+    ('1639274-8', 1, '1981-07-29', 'User15', 'Example', 'user15@example.com', 'hashedPassword16', 2),
+    ('2873915-6', 0, '1993-09-16', 'User16', 'Example', 'user16@example.com', 'hashedPassword17', 2),
+    ('1827364-5', 1, '1990-11-19', 'User17', 'Example', 'user17@example.com', 'hashedPassword18', 2),
+    ('3748592-1', 1, '1984-06-22', 'User18', 'Example', 'user18@example.com', 'hashedPassword19', 2),
+    ('4871926-3', 1, '1986-08-01', 'User19', 'Example', 'user19@example.com', 'hashedPassword20', 2);
+
+-- Precarga de TelefonosUsuario
+INSERT INTO TelefonosUsuario (Numero, UserId)
+VALUES 
+    ('099123456', 1), -- Admin con un número
+    ('099234567', 2), ('091345678', 2), -- User1 con dos números
+    ('092456789', 3), -- User2 con un número
+    ('098567890', 4), ('094678901', 4), -- User3 con dos números
+    ('093789012', 5), ('095890123', 5), ('096901234', 5), -- User4 con tres números
+    ('091012345', 6), -- User5 con un número
+    ('094123456', 7), ('099234567', 7), -- User6 con dos números
+    ('097345678', 8), -- User7 con un número
+    ('098456789', 9), ('092567890', 9), -- User8 con dos números
+    ('095678901', 10), ('091789012', 10), -- User9 con dos números
+    ('093890123', 11), -- User10 con un número
+    ('094901234', 12), ('098012345', 12), -- User11 con dos números
+    ('092123456', 13), -- User12 con un número
+    ('091234567', 14), ('096345678', 14), -- User13 con dos números
+    ('093456789', 15), -- User14 con un número
+    ('097567890', 16), ('095678901', 16), -- User15 con dos números
+    ('092789012', 17), ('099890123', 17), -- User16 con dos números
+    ('098901234', 18), -- User17 con un número
+    ('093012345', 19), ('094123456', 19), -- User18 con dos números
+    ('095234567', 20); -- User19 con un número
