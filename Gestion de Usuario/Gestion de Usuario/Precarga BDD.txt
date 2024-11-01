@@ -1,0 +1,48 @@
+
+INSERT INTO [Gestion_Usuarios].[dbo].[Usuarios] 
+    ([Ci_Valor], [Nombre_Valor], [Apellido_Valor], [Telefono_Valor], [Email_Valor], [Pass_Valor], [RolId])
+VALUES
+    ('12345678', 'Admin', 'User', '1234567890', 'admin@example.com', 'password123', 1), -- Admin User
+    ('12345679', 'John', 'Doe', '1234567891', 'johndoe1@example.com', 'password123', 2),
+    ('12345680', 'Jane', 'Doe', '1234567892', 'janedoe2@example.com', 'password123', 2),
+    ('12345681', 'Alice', 'Smith', '1234567893', 'alice3@example.com', 'password123', 2),
+    ('12345682', 'Bob', 'Johnson', '1234567894', 'bob4@example.com', 'password123', 2),
+    ('12345683', 'Charlie', 'Brown', '1234567895', 'charlie5@example.com', 'password123', 2),
+    ('12345684', 'David', 'Williams', '1234567896', 'david6@example.com', 'password123', 2),
+    ('12345685', 'Eve', 'Davis', '1234567897', 'eve7@example.com', 'password123', 2),
+    ('12345686', 'Frank', 'Miller', '1234567898', 'frank8@example.com', 'password123', 2),
+    ('12345687', 'Grace', 'Wilson', '1234567899', 'grace9@example.com', 'password123', 2),
+    ('12345688', 'Hank', 'Moore', '1234567800', 'hank10@example.com', 'password123', 2),
+    ('12345689', 'Ivy', 'Taylor', '1234567801', 'ivy11@example.com', 'password123', 2),
+    ('12345690', 'Jake', 'Anderson', '1234567802', 'jake12@example.com', 'password123', 2),
+    ('12345691', 'Karen', 'Thomas', '1234567803', 'karen13@example.com', 'password123', 2),
+    ('12345692', 'Leo', 'Jackson', '1234567804', 'leo14@example.com', 'password123', 2),
+    ('12345693', 'Mona', 'White', '1234567805', 'mona15@example.com', 'password123', 2),
+    ('12345694', 'Nina', 'Harris', '1234567806', 'nina16@example.com', 'password123', 2),
+    ('12345695', 'Oscar', 'Martin', '1234567807', 'oscar17@example.com', 'password123', 2),
+    ('12345696', 'Paul', 'Thompson', '1234567808', 'paul18@example.com', 'password123', 2),
+    ('12345697', 'Quinn', 'Garcia', '1234567809', 'quinn19@example.com', 'password123', 2);
+
+
+INSERT INTO [Gestion_Usuarios].[dbo].[Eventos] ([Descripcion], [UserId], [FechaRegistro], [FechaEvento], [EnumTipoTramite])
+VALUES
+('Evento de prueba 1', 1, GETDATE(), DATEADD(DAY, 1, GETDATE()), 1),
+('Evento de prueba 2', 2, GETDATE(), DATEADD(DAY, 2, GETDATE()), 2),
+('Evento de prueba 3', 3, GETDATE(), DATEADD(DAY, 3, GETDATE()), 3),
+('Evento de prueba 4', 4, GETDATE(), DATEADD(DAY, 4, GETDATE()), 3),
+('Evento de prueba 5', 5, GETDATE(), DATEADD(DAY, 5, GETDATE()), 1),
+('Evento de prueba 6', 6, GETDATE(), DATEADD(DAY, 6, GETDATE()), 1),
+('Evento de prueba 7', 7, GETDATE(), DATEADD(DAY, 7, GETDATE()), 2),
+('Evento de prueba 8', 8, GETDATE(), DATEADD(DAY, 8, GETDATE()), 3),
+('Evento de prueba 9', 9, GETDATE(), DATEADD(DAY, 9, GETDATE()), 2),
+('Evento de prueba 10', 10, GETDATE(), DATEADD(DAY, 10, GETDATE()), 3),
+('Evento de prueba 11', 11, GETDATE(), DATEADD(DAY, 11, GETDATE()), 1),
+('Evento de prueba 12', 12, GETDATE(), DATEADD(DAY, 12, GETDATE()), 2),
+('Evento de prueba 13', 13, GETDATE(), DATEADD(DAY, 13, GETDATE()), 3),
+('Evento de prueba 14', 14, GETDATE(), DATEADD(DAY, 14, GETDATE()), 2),
+('Evento de prueba 15', 15, GETDATE(), DATEADD(DAY, 15, GETDATE()), 3),
+('Evento de prueba 16', 16, GETDATE(), DATEADD(DAY, 16, GETDATE()), 1),
+('Evento de prueba 17', 17, GETDATE(), DATEADD(DAY, 17, GETDATE()), 2),
+('Evento de prueba 18', 18, GETDATE(), DATEADD(DAY, 18, GETDATE()), 3),
+('Evento de prueba 19', 19, GETDATE(), DATEADD(DAY, 19, GETDATE()), 1),
+('Evento de prueba 20', 20, GETDATE(), DATEADD(DAY, 20, GETDATE()), 2);
