@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\api\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|solutionrelative:api\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicaaplicacion\\cu\\updateevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\updateevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicaaplicacion\\cu\\altaevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\altaevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicadatos\\repositorios\\repositorioeventosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\repositorios\\repositorioeventosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicaaplicacion\\cu\\findeventosxtipotramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\findeventosxtipotramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicadatos\\repositorios\\repositoriousuariosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\repositorios\\repositoriousuariosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\dto\\mappers\\mapperseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|solutionrelative:dto\\mappers\\mapperseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicadatos\\repositorios\\repositoriotipostramitesbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\repositorios\\repositoriotipostramitesbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicaaplicacion\\cu\\tipotramitexid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\tipotramitexid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\dto\\mappers\\mapperstipotramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|solutionrelative:dto\\mappers\\mapperstipotramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\dto\\tipotramitesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|solutionrelative:dto\\tipotramitesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicaaplicacion\\interfacescu\\ifindtipotramitexid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacescu\\ifindtipotramitexid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Migrations\\20241102150604_Gestion_Usuarios_Divre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaDatos\\Migrations\\20241102150604_Gestion_Usuarios_Divre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicanegocio\\interfacesrepositorio\\irepositorioevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorio\\irepositorioevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicaaplicacion\\interfacescu\\ifindevextipotramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacescu\\ifindevextipotramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\dto\\eventosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|solutionrelative:dto\\eventosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicanegocio\\entidadesdominio\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicanegocio\\entidadesdominio\\tipotramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\tipotramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\dto\\mappers\\mappersusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|solutionrelative:dto\\mappers\\mappersusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicanegocio\\interfacesrepositorio\\irepositoriotipotramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorio\\irepositoriotipotramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicadatos\\repositorios\\gestionusuarioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\repositorios\\gestionusuarioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicanegocio\\valueobjects\\nombretipotramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\valueobjects\\nombretipotramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\01-11\\gestion de usuario\\backend\\logicanegocio\\valueobjects\\descripcionevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\valueobjects\\descripcionevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Migrations\\20241102144143_Gestion_Usuarios_Divre_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaDatos\\Migrations\\20241102144143_Gestion_Usuarios_Divre_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\obj\\Debug\\net8.0\\LogicaNegocio.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaNegocio\\obj\\Debug\\net8.0\\LogicaNegocio.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEvento.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\CU\\UpdateEvento.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\UpdateEvento.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\CU\\UpdateEvento.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CU\\UpdateEvento.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwC4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:34:00.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositorioUsuariosBD.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Repositorios\\RepositorioUsuariosBD.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioUsuariosBD.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Repositorios\\RepositorioUsuariosBD.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioUsuariosBD.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAlwEEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:23:10.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoTramiteXId.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\CU\\TipoTramiteXId.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\TipoTramiteXId.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\CU\\TipoTramiteXId.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CU\\TipoTramiteXId.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:16:58.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFindTipoTramiteXId.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\InterfacesCU\\IFindTipoTramiteXId.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfacesCU\\IFindTipoTramiteXId.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\InterfacesCU\\IFindTipoTramiteXId.cs",
+              "RelativeToolTip": "LogicaAplicacion\\InterfacesCU\\IFindTipoTramiteXId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:16:24.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:15:46.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241102150604_Gestion_Usuarios_Divre.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Migrations\\20241102150604_Gestion_Usuarios_Divre.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Migrations\\20241102150604_Gestion_Usuarios_Divre.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Migrations\\20241102150604_Gestion_Usuarios_Divre.cs",
+              "RelativeToolTip": "LogicaDatos\\Migrations\\20241102150604_Gestion_Usuarios_Divre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:06:04.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AltaEvento.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\CU\\AltaEvento.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\AltaEvento.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\CU\\AltaEvento.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CU\\AltaEvento.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:05:47.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepositorioEvento.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioEvento.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorio\\IRepositorioEvento.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioEvento.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorio\\IRepositorioEvento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:03:05.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFindEveXTipoTramite.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\InterfacesCU\\IFindEveXTipoTramite.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfacesCU\\IFindEveXTipoTramite.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\InterfacesCU\\IFindEveXTipoTramite.cs",
+              "RelativeToolTip": "LogicaAplicacion\\InterfacesCU\\IFindEveXTipoTramite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:02:09.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FindEventosXTipoTramite.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\CU\\FindEventosXTipoTramite.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\FindEventosXTipoTramite.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\CU\\FindEventosXTipoTramite.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CU\\FindEventosXTipoTramite.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:01:57.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventosDTO.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\DTO\\EventosDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\EventosDTO.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\DTO\\EventosDTO.cs",
+              "RelativeToolTip": "DTO\\EventosDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:00:21.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MappersUsuarios.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\DTO\\Mappers\\MappersUsuarios.cs",
+              "RelativeDocumentMoniker": "DTO\\Mappers\\MappersUsuarios.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\DTO\\Mappers\\MappersUsuarios.cs",
+              "RelativeToolTip": "DTO\\Mappers\\MappersUsuarios.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:58:32.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TipoTramitesDTO.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\DTO\\TipoTramitesDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\TipoTramitesDTO.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\DTO\\TipoTramitesDTO.cs",
+              "RelativeToolTip": "DTO\\TipoTramitesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:56:57.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappersTipoTramite.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\DTO\\Mappers\\MappersTipoTramite.cs",
+              "RelativeDocumentMoniker": "DTO\\Mappers\\MappersTipoTramite.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\DTO\\Mappers\\MappersTipoTramite.cs",
+              "RelativeToolTip": "DTO\\Mappers\\MappersTipoTramite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:56:27.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositorioTiposTramitesBD.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Repositorios\\RepositorioTiposTramitesBD.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioTiposTramitesBD.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Repositorios\\RepositorioTiposTramitesBD.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioTiposTramitesBD.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:51:47.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GestionUsuariosContext.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Repositorios\\GestionUsuariosContext.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\GestionUsuariosContext.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Repositorios\\GestionUsuariosContext.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\GestionUsuariosContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:51:16.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRepositorioTipoTramite.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioTipoTramite.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorio\\IRepositorioTipoTramite.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioTipoTramite.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorio\\IRepositorioTipoTramite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:49:05.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NombreTipoTramite.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\ValueObjects\\NombreTipoTramite.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ValueObjects\\NombreTipoTramite.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\ValueObjects\\NombreTipoTramite.cs",
+              "RelativeToolTip": "LogicaNegocio\\ValueObjects\\NombreTipoTramite.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:48:08.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TipoTramite.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\EntidadesDominio\\TipoTramite.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\TipoTramite.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\EntidadesDominio\\TipoTramite.cs",
+              "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\TipoTramite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:47:09.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\Api\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\EventoController.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\Api\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "Api\\Controllers\\EventoController.cs",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAqwAcBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:46:07.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241102144143_Gestion_Usuarios_Divre_2.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Migrations\\20241102144143_Gestion_Usuarios_Divre_2.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Migrations\\20241102144143_Gestion_Usuarios_Divre_2.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Migrations\\20241102144143_Gestion_Usuarios_Divre_2.cs",
+              "RelativeToolTip": "LogicaDatos\\Migrations\\20241102144143_Gestion_Usuarios_Divre_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:41:43.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LogicaNegocio.AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\obj\\Debug\\net8.0\\LogicaNegocio.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\obj\\Debug\\net8.0\\LogicaNegocio.AssemblyInfo.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\obj\\Debug\\net8.0\\LogicaNegocio.AssemblyInfo.cs",
+              "RelativeToolTip": "LogicaNegocio\\obj\\Debug\\net8.0\\LogicaNegocio.AssemblyInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:38:48.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositorioEventosBD.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Repositorios\\RepositorioEventosBD.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioEventosBD.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Repositorios\\RepositorioEventosBD.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioEventosBD.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAUwIEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:35:54.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappersEventos.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\DTO\\Mappers\\MappersEventos.cs",
+              "RelativeDocumentMoniker": "DTO\\Mappers\\MappersEventos.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\DTO\\Mappers\\MappersEventos.cs",
+              "RelativeToolTip": "DTO\\Mappers\\MappersEventos.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:31:07.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DescripcionEvento.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\ValueObjects\\DescripcionEvento.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ValueObjects\\DescripcionEvento.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\ValueObjects\\DescripcionEvento.cs",
+              "RelativeToolTip": "LogicaNegocio\\ValueObjects\\DescripcionEvento.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:26:56.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\EntidadesDominio\\Evento.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Evento.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\EntidadesDominio\\Evento.cs",
+              "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Evento.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA9wCMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:26:27.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

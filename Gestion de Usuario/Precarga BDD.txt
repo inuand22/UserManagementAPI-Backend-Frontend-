@@ -1,0 +1,61 @@
+INSERT INTO Roles (Nombre_Valor)
+VALUES 
+    ('Admin'),
+    ('User');
+
+INSERT INTO TiposTramites (Nombre_Valor)
+VALUES 
+    ('Primera Vez'),
+    ('Renovacion'),
+    ('Otro');
+
+
+INSERT INTO Usuarios (Ci_Valor, Nombre_Valor, Apellido_Valor, Telefono_Valor, Email_Valor, Pass_Valor, RolId)
+VALUES 
+    ('4912508-7', 'Admin', 'User', '099123456', 'admin@example.com', 'hashedPassword1', 1), -- Usuario Admin
+    ('6748392-1', 'User1', 'Example', '099234567', 'user1@example.com', 'hashedPassword2', 2),
+    ('1836472-9', 'User2', 'Example', '091345678', 'user2@example.com', 'hashedPassword3', 2),
+    ('2947516-8', 'User3', 'Example', '092456789', 'user3@example.com', 'hashedPassword4', 2),
+    ('8273641-5', 'User4', 'Example', '098567890', 'user4@example.com', 'hashedPassword5', 2),
+    ('6384725-1', 'User5', 'Example', '093789012', 'user5@example.com', 'hashedPassword6', 2),
+    ('5463712-9', 'User6', 'Example', '091012345', 'user6@example.com', 'hashedPassword7', 2),
+    ('7192845-6', 'User7', 'Example', '094123456', 'user7@example.com', 'hashedPassword8', 2),
+    ('3847261-9', 'User8', 'Example', '097345678', 'user8@example.com', 'hashedPassword9', 2),
+    ('8273641-9', 'User9', 'Example', '098456789', 'user9@example.com', 'hashedPassword10', 2),
+    ('1928374-5', 'User10', 'Example', '095678901', 'user10@example.com', 'hashedPassword11', 2),
+    ('2983746-5', 'User11', 'Example', '093890123', 'user11@example.com', 'hashedPassword12', 2),
+    ('4829375-1', 'User12', 'Example', '094901234', 'user12@example.com', 'hashedPassword13', 2),
+    ('5973284-6', 'User13', 'Example', '092123456', 'user13@example.com', 'hashedPassword14', 2),
+    ('7162938-5', 'User14', 'Example', '091234567', 'user14@example.com', 'hashedPassword15', 2),
+    ('1639274-8', 'User15', 'Example', '093456789', 'user15@example.com', 'hashedPassword16', 2),
+    ('2873915-6', 'User16', 'Example', '097567890', 'user16@example.com', 'hashedPassword17', 2),
+    ('1827364-5', 'User17', 'Example', '092789012', 'user17@example.com', 'hashedPassword18', 2),
+    ('3748592-1', 'User18', 'Example', '099890123', 'user18@example.com', 'hashedPassword19', 2),
+    ('4871926-3', 'User19', 'Example', '098901234', 'user19@example.com', 'hashedPassword20', 2);
+
+INSERT INTO Eventos (Descripcion_Valor, UserId, FechaRegistro, FechaEvento, TipoTramiteId)
+VALUES 
+    ('Evento de Bienvenida', 1, '2024-01-10', '2024-01-15', 1),
+    ('Actualización de Datos', 2, '2024-02-05', '2024-02-10', 2),
+    ('Solicitud de Renovación', 3, '2024-03-12', '2024-03-18', 2),
+    ('Registro Nuevo', 4, '2024-04-01', '2024-04-05', 1),
+    ('Cambio de Domicilio', 5, '2024-05-03', '2024-05-07', 3),
+    ('Revisión de Documentos', 6, '2024-06-15', '2024-06-20', 2),
+    ('Solicitud de Primera Vez', 7, '2024-07-04', '2024-07-10', 1),
+    ('Evento de Capacitación', 8, '2024-08-21', '2024-08-25', 3),
+    ('Consulta Administrativa', 9, '2024-09-11', '2024-09-15', 3),
+    ('Registro de Usuario', 10, '2024-10-05', '2024-10-10', 1),
+    ('Revisión Médica', 11, '2024-11-02', '2024-11-08', 2),
+    ('Trámite de Renovación', 12, '2024-11-10', '2024-11-15', 2),
+    ('Certificación de Datos', 13, '2024-12-01', '2024-12-05', 3),
+    ('Solicitud de Documento', 14, '2025-01-18', '2025-01-20', 1),
+    ('Evento Anual', 15, '2025-02-10', '2025-02-15', 3),
+    ('Actualización de Foto', 16, '2025-03-04', '2025-03-10', 2),
+    ('Solicitud de Cambio', 17, '2025-04-12', '2025-04-18', 3),
+    ('Evento de Integración', 18, '2025-05-05', '2025-05-10', 1),
+    ('Revisión Final', 19, '2025-06-07', '2025-06-12', 2),
+    ('Actualización de Contacto', 20, '2025-07-09', '2025-07-15', 3);
+
+
+
+
