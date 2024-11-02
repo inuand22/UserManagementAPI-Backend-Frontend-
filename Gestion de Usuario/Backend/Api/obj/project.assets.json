@@ -4521,11 +4521,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\Api\\Api.csproj",
+      "projectUniqueName": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\Api\\Api.csproj",
+      "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Api\\Api.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\Api\\obj\\",
+      "outputPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4547,17 +4547,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\DTO\\DTO.csproj": {
-              "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\DTO\\DTO.csproj"
+            "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\DTO\\DTO.csproj": {
+              "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\DTO\\DTO.csproj"
             },
-            "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj": {
-              "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj"
+            "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj": {
+              "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj"
             },
-            "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\LogicaAplicacion.csproj": {
-              "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\LogicaAplicacion.csproj"
+            "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\LogicaAplicacion.csproj": {
+              "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\LogicaAplicacion.csproj"
             },
-            "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\LogicaDatos.csproj": {
-              "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\LogicaDatos.csproj"
+            "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaDatos\\LogicaDatos.csproj": {
+              "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaDatos\\LogicaDatos.csproj"
             }
           }
         }

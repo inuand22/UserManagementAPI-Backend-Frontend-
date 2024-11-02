@@ -1,4 +1,3 @@
-
 using LogicaAplicacion.CU;
 using LogicaAplicacion.InterfacesCU;
 using LogicaDatos.Repositorios;
@@ -15,7 +14,19 @@ namespace Api
 
             // Add services to the container.
 
-            //EVENTO
+            // CORS
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowSpecificOrigin",
+                    builder =>
+                    {
+                        builder.WithOrigins("https://tu-frontend.com") // Reemplaza con el dominio de tu frontend
+                               .AllowAnyHeader()
+                               .AllowAnyMethod();
+                    });
+            });
+
+            // EVENTO
             builder.Services.AddScoped<IRepositorioEvento, RepositorioEventosBD>();
             builder.Services.AddScoped<IAltaEvento, AltaEvento>();
             builder.Services.AddScoped<IDeleteEvento, BorrarEvento>();
@@ -27,16 +38,15 @@ namespace Api
             builder.Services.AddScoped<IListadoEve, ListadoEventos>();
             builder.Services.AddScoped<IUpdateEven, UpdateEvento>();
 
-            //ROL
+            // ROL
             builder.Services.AddScoped<IRepositorioRol, RepositorioRolesBD>();
             builder.Services.AddScoped<IListadoRoles, ListadoRoles>();
 
-            //TIPOTRAMITE
+            // TIPOTRAMITE
             builder.Services.AddScoped<IRepositorioTipoTramite, RepositorioTiposTramitesDB>();
-            //builder.Services.AddScoped<IFin, ListadoRoles>();
+            // builder.Services.AddScoped<IFin, ListadoRoles>();
 
-
-            //USUARIO
+            // USUARIO
             builder.Services.AddScoped<IRepositorioUsuario, RepositorioUsuariosBD>();
             builder.Services.AddScoped<IAltaUsuario, AltaUsuario>();
             builder.Services.AddScoped<IListadoUsuarios, ListaUsuarios>();
@@ -63,8 +73,8 @@ namespace Api
                 app.UseSwaggerUI();
             }
 
+            app.UseCors("AllowSpecificOrigin"); // Usa la política de CORS
             app.UseAuthorization();
-
 
             app.MapControllers();
 

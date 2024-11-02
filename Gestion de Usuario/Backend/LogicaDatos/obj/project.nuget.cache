@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P0wPwg38bPT7+lJQB0aavSNq2tmMqZYLeooxh6mUSh4m8RXsnCaLf1xO/2CZmDBQ9zV1RMNUhnxGw/2EzxCKhw==",
+  "dgSpecHash": "Wbe2451f+TAwJ42zHMRG3+b3J5WFkADHmk7/RMH75Mi9u40cnmyXIPJ24Hv6Gj1/+0d4BgngLS2rKh4ywYT1sA==",
   "success": true,
-  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaDatos\\LogicaDatos.csproj",
+  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaDatos\\LogicaDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

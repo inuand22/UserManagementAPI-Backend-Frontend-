@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M3+FkqF/JjxfNZRroxWLA5QuzsZkbcY47fQd5bdvEsEsT/juXJeym5aYlr73e8PmQDuQJ6XRSQFhlJ8f231F5g==",
+  "dgSpecHash": "VYwseuOmcRICE9mM0gnRIySSleijof53n9eQ5upFb9eeOioH1SX9OB0c4ZHQxdQerSFwk4q32Ym2o+GfAbzQpg==",
   "success": true,
-  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\LogicaNegocio.csproj",
+  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\LogicaNegocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",

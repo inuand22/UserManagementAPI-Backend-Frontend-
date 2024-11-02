@@ -41,7 +41,6 @@ namespace DTO.Mappers
             dto.Email = user.Email.Valor;
             dto.Pass = user.Pass.Valor;
             dto.IdRol = user.Rol.Id;
-            dto.NombreRol = user.Rol.Nombre.Valor;
             return dto;
         }
 

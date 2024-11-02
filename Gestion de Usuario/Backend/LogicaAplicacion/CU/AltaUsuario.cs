@@ -30,6 +30,8 @@ namespace LogicaAplicacion.CU
             Rol rol = RepositorioRol.FindById(2);
             user.Rol = rol;
             RepositorioUsuario.Add(user);
+            dto.Id = user.Id;
+            dto.IdRol = user.Rol.Id;
         }
     }
 }

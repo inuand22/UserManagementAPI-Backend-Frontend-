@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+tD6PR9xcwK/u7C8/jBkkCQdzsnHDw6PJq4ygjb7897PxBdiJP0gST5IDUzXBNvOnJXPb9FuzMVL+QcLK8V4GA==",
+  "dgSpecHash": "SSX2yfADMB/lZS7yAfYnkXFTsbjtU/xgParkFdIrgGk0p5+Tq5LlRC7In2iSNA1r70WjMIXWZ/6KJVxoRI2VPQ==",
   "success": true,
-  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\Api\\Api.csproj",
+  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

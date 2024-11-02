@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OaK+fG229EnC4XtE4eJQV3M10cOcKNVCYE940H5Vkc/6l0k8mxFTbGL/753Dl54DmOR5FmCF+DlSYFdtNn4FLA==",
+  "dgSpecHash": "WVonBQON69ooZKHpvjoK0Ty99ErwAabymlP8I7ZiEPDln8zoA5kkJECth1poW4SEN0wY2xDuy0q6kDjDTFNdMQ==",
   "success": true,
-  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\DTO\\DTO.csproj",
+  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\DTO\\DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",

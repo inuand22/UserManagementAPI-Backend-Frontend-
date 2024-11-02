@@ -40,9 +40,5 @@ namespace DTO
         [Required]
         [Display(Name = "Id Rol de Usuario")]
         public int IdRol { get; set; }
-
-        [Required]
-        [Display(Name = "Nombre Rol de Usuario")]
-        public string NombreRol { get; set; }
     }
 }

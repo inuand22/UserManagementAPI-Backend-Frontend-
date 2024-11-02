@@ -77,7 +77,7 @@ namespace Api.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public IActionResult Get(string email)
-        { 
+        {
             if (string.IsNullOrWhiteSpace(email))
             {
                 return BadRequest("El email proporcionado no es válido.");
@@ -92,7 +92,11 @@ namespace Api.Controllers
                     return NotFound("Usuario no encontrado.");
                 }
 
-                return Ok(usuario); 
+                return Ok(usuario);
+            }
+            catch (ExcepcionesUsuarios ex)
+            {
+                return BadRequest(ex.Message);
             }
             catch (Exception ex)
             {
@@ -117,12 +121,16 @@ namespace Api.Controllers
             {
                 return BadRequest("Debe proporcionar un Usuario");
             }
+            if (dto.IdRol != 0)
+            {
+                return BadRequest("No debe proporcionar un Rol para la creación de Usuario");
+            }
             try
             {
                 CUAltaUsuario.AltaUser(dto);
                 return CreatedAtRoute("FindById", new { id = dto.Id }, dto);
             }
-            catch (ExcepcionesTelefonosUsuario ex)
+            catch (ExcepcionesUsuarios ex)
             {
                 return BadRequest(ex.Message);
             }
@@ -152,12 +160,16 @@ namespace Api.Controllers
             {
                 return BadRequest("Los Id´s no pueden ser diferentes");
             }
+            if (dto.IdRol != 0)
+            {
+                return BadRequest("No debe proporcionar un Rol para la creación de Usuario");
+            }
             try
             {
                 CUUpdateUsuario.UpdateUsuario(dto);
                 return Ok();
             }
-            catch (ExcepcionesTelefonosUsuario ex)
+            catch (ExcepcionesUsuarios ex)
             {
                 return BadRequest(ex.Message);
             }
@@ -179,10 +191,6 @@ namespace Api.Controllers
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public IActionResult Delete(int id)
         {
-            if (id == null)
-            {
-                return BadRequest("El id no debe ser vacío");
-            }
             if (id <= 0)
             {
                 return BadRequest("El id debe ser un entero mayor a cero");
@@ -192,7 +200,7 @@ namespace Api.Controllers
                 CUDeleteUser.DeleteUser(id);
                 return NoContent();
             }
-            catch (ExcepcionesTelefonosUsuario ex)
+            catch (ExcepcionesUsuarios ex)
             {
                 return BadRequest(ex.Message);
             }

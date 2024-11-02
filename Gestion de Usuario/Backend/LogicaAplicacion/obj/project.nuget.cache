@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ifg4OQdJLmZ5aQ/luqZaPeFD8dOxgjKLNBZzErMoGYSMni+M1Twhe5JcEopDyPZly3sSs5kALdDVUmxHMcb6Sg==",
+  "dgSpecHash": "3ZLlYcKYB+/J7xUIYQj1e0KL/L6vEYdcCrenWrU5SFfU2kgO2gii/dHHlHcP2kmOpm7TT7VrGwxFiAIXqFu09w==",
   "success": true,
-  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\01-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\LogicaAplicacion.csproj",
+  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\LogicaAplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",
