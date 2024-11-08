@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Excepciones\\Excepciones.csproj": {}
+    "F:\\USUARIO\\Desktop\\PERSONAL\\GitHub\\UserManagementAPI\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Excepciones\\Excepciones.csproj": {
+    "F:\\USUARIO\\Desktop\\PERSONAL\\GitHub\\UserManagementAPI\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Excepciones\\Excepciones.csproj",
+        "projectUniqueName": "F:\\USUARIO\\Desktop\\PERSONAL\\GitHub\\UserManagementAPI\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj",
         "projectName": "Excepciones",
-        "projectPath": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Excepciones\\Excepciones.csproj",
-        "packagesPath": "C:\\Users\\49125087\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Excepciones\\obj\\",
+        "projectPath": "F:\\USUARIO\\Desktop\\PERSONAL\\GitHub\\UserManagementAPI\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "F:\\USUARIO\\Desktop\\PERSONAL\\GitHub\\UserManagementAPI\\Gestion de Usuario\\Backend\\Excepciones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\49125087\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
