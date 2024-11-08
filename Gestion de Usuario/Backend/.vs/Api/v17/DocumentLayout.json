@@ -1,34 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\02-11\\gestion de usuario\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\logicadatos\\repositorios\\repositorioeventosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\repositorios\\repositorioeventosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\02-11\\gestion de usuario\\backend\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|solutionrelative:api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\02-11\\gestion de usuario\\backend\\logicaaplicacion\\cu\\borraruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\borraruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\02-11\\gestion de usuario\\backend\\logicaaplicacion\\cu\\altausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\altausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\02-11\\gestion de usuario\\backend\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|solutionrelative:dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\02-11\\gestion de usuario\\backend\\dto\\mappers\\mappersusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\dto\\mappers\\mappersusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|solutionrelative:dto\\mappers\\mappersusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|f:\\usuario\\desktop\\ort\\gestion de usuarios\\02-11\\gestion de usuario\\backend\\logicadatos\\repositorios\\repositorioeventosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\repositorios\\repositorioeventosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\dto\\mappers\\mapperseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|solutionrelative:dto\\mappers\\mapperseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\logicanegocio\\entidadesdominio\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\api\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|solutionrelative:api\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\logicaaplicacion\\cu\\findeventosxfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\findeventosxfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\logicaaplicacion\\interfacescu\\ifindevexfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacescu\\ifindevexfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\logicanegocio\\interfacesrepositorio\\irepositorioevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1433C91-F573-4FDB-B8DF-04E674232E19}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorio\\irepositorioevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|solutionrelative:api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\logicadatos\\migrations\\20241105131739_gestion_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2D5070-D7DC-4D2D-B09D-8F0B7DBDB3D6}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\migrations\\20241105131739_gestion_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87A564B-B0D3-45F3-A42F-8B531BC6A9F5}|DTO\\DTO.csproj|solutionrelative:dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\logicaaplicacion\\cu\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\logicaaplicacion\\cu\\altaevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\altaevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01CEC2-462A-4D37-81CA-656C3E65C46B}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\logicaaplicacion\\cu\\borraruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\borraruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\49125087\\documents\\github\\agenda_divre\\backend\\logicaaplicacion\\cu\\altausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9798ED-E4A3-4F51-9343-94DBC975425F}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\altausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,44 +74,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Api\\Program.cs",
-              "RelativeDocumentMoniker": "Api\\Program.cs",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Api\\Program.cs",
-              "RelativeToolTip": "Api\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T17:52:35.94Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BorrarUser.cs",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\CU\\BorrarUser.cs",
-              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\BorrarUser.cs",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\CU\\BorrarUser.cs",
-              "RelativeToolTip": "LogicaAplicacion\\CU\\BorrarUser.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAJAAAA",
+              "DocumentIndex": 9,
+              "Title": "20241105131739_Gestion_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaDatos\\Migrations\\20241105131739_Gestion_Usuarios.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Migrations\\20241105131739_Gestion_Usuarios.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaDatos\\Migrations\\20241105131739_Gestion_Usuarios.cs",
+              "RelativeToolTip": "LogicaDatos\\Migrations\\20241105131739_Gestion_Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T17:45:34.044Z"
+              "WhenOpened": "2024-11-05T13:17:39.406Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaNegocio\\EntidadesDominio\\Evento.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Evento.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaNegocio\\EntidadesDominio\\Evento.cs",
+              "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Evento.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:16:02.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "AltaUsuario.cs",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\CU\\AltaUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaAplicacion\\CU\\AltaUsuario.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\AltaUsuario.cs",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaAplicacion\\CU\\AltaUsuario.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaAplicacion\\CU\\AltaUsuario.cs",
               "RelativeToolTip": "LogicaAplicacion\\CU\\AltaUsuario.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAgwCEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,52 +118,161 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MappersUsuarios.cs",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\DTO\\Mappers\\MappersUsuarios.cs",
-              "RelativeDocumentMoniker": "DTO\\Mappers\\MappersUsuarios.cs",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\DTO\\Mappers\\MappersUsuarios.cs",
-              "RelativeToolTip": "DTO\\Mappers\\MappersUsuarios.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACoAAAAkAAAA",
+              "DocumentIndex": 0,
+              "Title": "RepositorioEventosBD.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaDatos\\Repositorios\\RepositorioEventosBD.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioEventosBD.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaDatos\\Repositorios\\RepositorioEventosBD.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioEventosBD.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAkwIsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T17:37:35.797Z"
+              "WhenOpened": "2024-11-02T17:20:36.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Api\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAQwKQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:27:57.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "UsuarioDTO.cs",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\DTO\\UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\DTO\\UsuarioDTO.cs",
               "RelativeDocumentMoniker": "DTO\\UsuarioDTO.cs",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\DTO\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\DTO\\UsuarioDTO.cs",
               "RelativeToolTip": "DTO\\UsuarioDTO.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAIwCkAAAAmAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T17:37:21.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Api\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\UsuarioController.cs",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Api\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Api\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAALgAAAAAAAAAAAAgwMcAAAAQAAAA",
+              "DocumentIndex": 4,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Api\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Api\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "Api\\Controllers\\EventoController.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAqwEYBAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T17:27:57.529Z",
+              "WhenOpened": "2024-11-04T15:26:28.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappersUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\DTO\\Mappers\\MappersUsuarios.cs",
+              "RelativeDocumentMoniker": "DTO\\Mappers\\MappersUsuarios.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\DTO\\Mappers\\MappersUsuarios.cs",
+              "RelativeToolTip": "DTO\\Mappers\\MappersUsuarios.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:37:35.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RepositorioEventosBD.cs",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Repositorios\\RepositorioEventosBD.cs",
-              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioEventosBD.cs",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaDatos\\Repositorios\\RepositorioEventosBD.cs",
-              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioEventosBD.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "MappersEventos.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\DTO\\Mappers\\MappersEventos.cs",
+              "RelativeDocumentMoniker": "DTO\\Mappers\\MappersEventos.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\DTO\\Mappers\\MappersEventos.cs",
+              "RelativeToolTip": "DTO\\Mappers\\MappersEventos.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCgAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T17:20:36.634Z"
+              "WhenOpened": "2024-11-04T15:29:26.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaAplicacion\\CU\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\UpdateUser.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaAplicacion\\CU\\UpdateUser.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CU\\UpdateUser.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAywBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:21:35.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepositorioEvento.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioEvento.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorio\\IRepositorioEvento.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioEvento.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorio\\IRepositorioEvento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:18:06.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFindEveXFecha.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaAplicacion\\InterfacesCU\\IFindEveXFecha.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfacesCU\\IFindEveXFecha.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaAplicacion\\InterfacesCU\\IFindEveXFecha.cs",
+              "RelativeToolTip": "LogicaAplicacion\\InterfacesCU\\IFindEveXFecha.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:25:23.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FindEventosXFecha.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaAplicacion\\CU\\FindEventosXFecha.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\FindEventosXFecha.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaAplicacion\\CU\\FindEventosXFecha.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CU\\FindEventosXFecha.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:25:40.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AltaEvento.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaAplicacion\\CU\\AltaEvento.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\AltaEvento.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaAplicacion\\CU\\AltaEvento.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CU\\AltaEvento.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:29:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BorrarUser.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaAplicacion\\CU\\BorrarUser.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\BorrarUser.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaAplicacion\\CU\\BorrarUser.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CU\\BorrarUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:45:34.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:52:35.94Z"
             }
           ]
         }

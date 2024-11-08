@@ -184,6 +184,54 @@ namespace Api.Controllers
             }
         }
 
+        // GET api/Eventos/futuros/12-05-2004
+        [HttpGet("futuros")]
+        public IActionResult GetEventosFuturos()
+        {
+            try
+            {
+                var eventos = CUFindEventoXFecha.GetEventosFuturos();
+                if (eventos == null || !eventos.Any())
+                {
+                    return NotFound("No se encontraron eventos para la fecha especificada.");
+                }
+
+                return Ok(eventos);
+            }
+            catch (ExcepcionesEvento ex)
+            {
+                return NotFound(ex.Message);
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Ocurrió un error interno en el servidor.");
+            }
+        }
+
+        // GET api/Eventos/pasados/12-05-2004
+        [HttpGet("pasados")]
+        public IActionResult GetEventosPasados()
+        {
+            try
+            {
+                var eventos = CUFindEventoXFecha.GetEventosPasados();
+                if (eventos == null || !eventos.Any())
+                {
+                    return NotFound("No se encontraron eventos para la fecha especificada.");
+                }
+
+                return Ok(eventos);
+            }
+            catch (ExcepcionesEvento ex)
+            {
+                return NotFound(ex.Message);
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Ocurrió un error interno en el servidor.");
+            }
+        }
+
         // POST api/Eventos
         [HttpPost]
         public IActionResult CreateEvento([FromBody] EventosDTO dto)

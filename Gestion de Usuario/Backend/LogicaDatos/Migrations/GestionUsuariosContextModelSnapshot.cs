@@ -24,11 +24,11 @@ namespace LogicaDatos.Migrations
 
             modelBuilder.Entity("LogicaNegocio.EntidadesDominio.Evento", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("FechaEvento")
                         .HasColumnType("datetime2");
@@ -42,7 +42,7 @@ namespace LogicaDatos.Migrations
                     b.Property<int>("UserId")
                         .HasColumnType("int");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
                     b.HasIndex("TipoTramiteId");
 
@@ -111,19 +111,19 @@ namespace LogicaDatos.Migrations
 
                     b.OwnsOne("LogicaNegocio.ValueObjects.DescripcionEvento", "Descripcion", b1 =>
                         {
-                            b1.Property<int>("Eventoid")
+                            b1.Property<int>("EventoId")
                                 .HasColumnType("int");
 
                             b1.Property<string>("Valor")
                                 .IsRequired()
                                 .HasColumnType("nvarchar(max)");
 
-                            b1.HasKey("Eventoid");
+                            b1.HasKey("EventoId");
 
                             b1.ToTable("Eventos");
 
                             b1.WithOwner()
-                                .HasForeignKey("Eventoid");
+                                .HasForeignKey("EventoId");
                         });
 
                     b.Navigation("Descripcion")

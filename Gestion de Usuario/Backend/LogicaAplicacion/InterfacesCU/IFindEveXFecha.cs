@@ -10,5 +10,7 @@ namespace LogicaAplicacion.InterfacesCU
     public interface IFindEveXFecha
     {
         IEnumerable<EventosDTO> GetEventos(DateTime fecha1);
+        IEnumerable<EventosDTO> GetEventosFuturos();
+        IEnumerable<EventosDTO> GetEventosPasados();
     }
 }

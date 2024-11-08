@@ -46,7 +46,7 @@ namespace LogicaAplicacion.CU
             eve.User = user;
             eve.TipoTramite = tipoTramite;
             RepositorioEvento.Add(eve);
-            dto.Id = eve.id;
+            dto.Id = eve.Id;
         }
     }
 }

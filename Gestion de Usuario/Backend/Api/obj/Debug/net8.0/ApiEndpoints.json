@@ -96,6 +96,26 @@
   },
   {
     "ContainingType": "Api.Controllers.EventosController",
+    "Method": "GetEventoNoVigente",
+    "RelativePath": "api/Eventos/fechaNoVigente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.EventosController",
+    "Method": "GetEventoVigente",
+    "RelativePath": "api/Eventos/fechaVigente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.EventosController",
     "Method": "Get",
     "RelativePath": "api/Eventos/id/{id}",
     "HttpMethod": "GET",
@@ -328,25 +348,9 @@
     ]
   },
   {
-    "ContainingType": "Api.Controllers.EventosController",
-    "Method": "GetEveXIdTramite",
-    "RelativePath": "IdTipoTramite/{idTipoTramite}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "idTipoTramite",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "Api.Controllers.UsuarioController",
     "Method": "Get",
-    "RelativePath": "mail/{email}",
+    "RelativePath": "api/Usuario/mail/{email}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -387,5 +391,21 @@
         "StatusCode": 500
       }
     ]
+  },
+  {
+    "ContainingType": "Api.Controllers.EventosController",
+    "Method": "GetEveXIdTramite",
+    "RelativePath": "IdTipoTramite/{idTipoTramite}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idTipoTramite",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

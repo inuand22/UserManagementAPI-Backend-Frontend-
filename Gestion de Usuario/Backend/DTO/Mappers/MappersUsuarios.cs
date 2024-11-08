@@ -25,6 +25,7 @@ namespace DTO.Mappers
                 Usuario user = new Usuario(ci, nombre, apellido,
                     telefono, email, null, pass);
                 user.Id = dto.Id;
+                user.IdRol = dto.IdRol;
                 return user;
             }
             throw new ExcepcionesTelefonosUsuario("El Usuario no puede ser vacío");

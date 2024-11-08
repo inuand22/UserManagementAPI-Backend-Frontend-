@@ -17,7 +17,9 @@ namespace DTO.Mappers
             {
                 DescripcionEvento descripcion = new DescripcionEvento(dto.Descripcion);
                 Evento eve = new Evento(descripcion, dto.IdUsuario, dto.FechaRegistro, dto.FechaEvento, dto.IdTramite);
-                eve.id = dto.Id;
+                eve.Id = dto.Id;
+                eve.IdTipoTramite = dto.IdTramite;
+                eve.IdUser = dto.IdUsuario;
                 return eve;
             }
             throw new ExcepcionesTelefonosUsuario("El Usuario no puede ser vacío");
@@ -26,7 +28,7 @@ namespace DTO.Mappers
         public static EventosDTO ToDTO(Evento evento)
         {
             EventosDTO dto = new EventosDTO();
-            dto.Id = evento.id;
+            dto.Id = evento.Id;
             dto.Descripcion = evento.Descripcion.Valor;
             dto.IdUsuario = evento.User.Id;
             dto.FechaEvento = evento.FechaEvento;

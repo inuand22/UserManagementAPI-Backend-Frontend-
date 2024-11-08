@@ -71,7 +71,7 @@ namespace Api.Controllers
         }
 
         // GET api/<UsuarioController>/mail/{email}
-        [HttpGet("/mail/{email}")]
+        [HttpGet("mail/{email}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -159,10 +159,6 @@ namespace Api.Controllers
             if (id != dto.Id)
             {
                 return BadRequest("Los Id´s no pueden ser diferentes");
-            }
-            if (dto.IdRol != 0)
-            {
-                return BadRequest("No debe proporcionar un Rol para la creación de Usuario");
             }
             try
             {

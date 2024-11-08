@@ -20,3 +20,64 @@ F:\USUARIO\Desktop\ORT\Gestion de Usuarios\02-11\Gestion de Usuario\Backend\Exce
 F:\USUARIO\Desktop\ORT\Gestion de Usuarios\02-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\refint\Excepciones.dll
 F:\USUARIO\Desktop\ORT\Gestion de Usuarios\02-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.pdb
 F:\USUARIO\Desktop\ORT\Gestion de Usuarios\02-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\ref\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\Excepciones\bin\Debug\net8.0\Excepciones.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\Excepciones\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\Excepciones\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\refint\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\ref\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\Excepciones\bin\Debug\net8.0\Excepciones.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\Excepciones\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\Excepciones\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\refint\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\ref\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\Excepciones\bin\Debug\net8.0\Excepciones.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\Excepciones\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\Excepciones\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\refint\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\Excepciones\obj\Debug\net8.0\ref\Excepciones.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\bin\Debug\net8.0\Excepciones.deps.json
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\bin\Debug\net8.0\Excepciones.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.csproj.AssemblyReference.cache
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfo.cs
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.sourcelink.json
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\refint\Excepciones.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.pdb
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\ref\Excepciones.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\bin\Debug\net8.0\Excepciones.deps.json
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.csproj.AssemblyReference.cache
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfo.cs
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.sourcelink.json
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\refint\Excepciones.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\Excepciones\obj\Debug\net8.0\ref\Excepciones.dll

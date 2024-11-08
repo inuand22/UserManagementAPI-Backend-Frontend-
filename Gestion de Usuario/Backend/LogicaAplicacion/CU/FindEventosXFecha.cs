@@ -2,6 +2,7 @@
 using DTO.Mappers;
 using Excepciones;
 using LogicaAplicacion.InterfacesCU;
+using LogicaNegocio.EntidadesDominio;
 using LogicaNegocio.InterfacesRepositorio;
 using System;
 using System.Collections.Generic;
@@ -28,6 +29,28 @@ namespace LogicaAplicacion.CU
                 return dto;
             }
             throw new ExcepcionesEvento("La descripción no puede ser vacía");
+        }
+
+        public IEnumerable<EventosDTO> GetEventosFuturos()
+        {
+            List<Evento> eventos = RepositorioEvento.FindEventoFuturo().ToList();
+            if (eventos == null)
+            {
+                throw new ExcepcionesEvento("No se ha encontrado ningún evento");
+            }
+            List<EventosDTO> dto = MappersEventos.TODTOs(eventos).ToList();
+            return dto;
+        }
+
+        public IEnumerable<EventosDTO> GetEventosPasados()
+        {
+            List<Evento> eventos = RepositorioEvento.FindEventoPasado().ToList();
+            if (eventos == null)
+            {
+                throw new ExcepcionesEvento("No se ha encontrado ningún evento");
+            }
+            List<EventosDTO> dto = MappersEventos.TODTOs(eventos).ToList();
+            return dto;
         }
     }
 }

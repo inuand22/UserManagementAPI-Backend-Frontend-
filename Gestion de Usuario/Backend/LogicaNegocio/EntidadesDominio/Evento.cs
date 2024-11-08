@@ -12,7 +12,7 @@ namespace LogicaNegocio.EntidadesDominio
 {
     public class Evento : IValidable
     {
-        public int id { get; set; }
+        public int Id { get; set; }
         public DescripcionEvento Descripcion { get; set; }
 
         public Usuario User { get; set; }

@@ -28,3 +28,80 @@ F:\USUARIO\Desktop\ORT\Gestion de Usuarios\02-11\Gestion de Usuario\Backend\Logi
 F:\USUARIO\Desktop\ORT\Gestion de Usuarios\02-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
 F:\USUARIO\Desktop\ORT\Gestion de Usuarios\02-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
 F:\USUARIO\Desktop\ORT\Gestion de Usuarios\02-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNe.53575492.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNe.53575492.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNe.53575492.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\bin\Debug\net8.0\Excepciones.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.sourcelink.json
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNe.53575492.Up2Date
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.sourcelink.json
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNe.53575492.Up2Date
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll

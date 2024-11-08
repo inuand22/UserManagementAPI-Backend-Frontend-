@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\DTO\\DTO.csproj": {}
+    "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\DTO\\DTO.csproj": {}
   },
   "projects": {
-    "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\DTO\\DTO.csproj": {
+    "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\DTO\\DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\DTO\\DTO.csproj",
+        "projectUniqueName": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\DTO\\DTO.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\DTO\\obj\\",
+        "projectPath": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\DTO\\DTO.csproj",
+        "packagesPath": "C:\\Users\\49125087\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\49125087\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj": {
-                "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj"
+              "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Excepciones\\Excepciones.csproj": {
+                "projectPath": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Excepciones\\Excepciones.csproj"
               },
-              "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\LogicaNegocio.csproj": {
-                "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\LogicaNegocio.csproj"
+              "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaNegocio\\LogicaNegocio.csproj": {
+                "projectPath": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaNegocio\\LogicaNegocio.csproj"
               }
             }
           }
@@ -56,6 +56,28 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNet.Cors": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Owin.Cors": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -72,24 +94,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj": {
+    "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Excepciones\\Excepciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj",
+        "projectUniqueName": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Excepciones\\Excepciones.csproj",
         "projectName": "Excepciones",
-        "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Excepciones\\obj\\",
+        "projectPath": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Excepciones\\Excepciones.csproj",
+        "packagesPath": "C:\\Users\\49125087\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Excepciones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\49125087\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -121,6 +143,28 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNet.Cors": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Owin.Cors": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -137,24 +181,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\LogicaNegocio.csproj": {
+    "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaNegocio\\LogicaNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\LogicaNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaNegocio\\LogicaNegocio.csproj",
         "projectName": "LogicaNegocio",
-        "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\LogicaNegocio.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\LogicaNegocio\\obj\\",
+        "projectPath": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaNegocio\\LogicaNegocio.csproj",
+        "packagesPath": "C:\\Users\\49125087\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\LogicaNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\49125087\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -170,8 +214,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj": {
-                "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Gestion de Usuarios\\02-11\\Gestion de Usuario\\Backend\\Excepciones\\Excepciones.csproj"
+              "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Excepciones\\Excepciones.csproj": {
+                "projectPath": "C:\\Users\\49125087\\Documents\\GitHub\\Agenda_DIVRE\\Backend\\Excepciones\\Excepciones.csproj"
               }
             }
           }
@@ -191,6 +235,22 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNet.Cors": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -198,6 +258,10 @@
             "Microsoft.EntityFrameworkCore.Abstractions": {
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.Owin.Cors": {
+              "target": "Package",
+              "version": "[4.2.2, )"
             }
           },
           "imports": [
@@ -216,7 +280,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

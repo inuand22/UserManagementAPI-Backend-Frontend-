@@ -27,7 +27,11 @@ namespace LogicaAplicacion.CU
         public void UpdateUsuario(UsuarioDTO dtoAltaUsuario)
         {
             Usuario user = MappersUsuarios.FromDTO(dtoAltaUsuario);
-            Rol rol = RepositorioRol.FindById(2);
+            Rol rol = RepositorioRol.FindById(dtoAltaUsuario.IdRol);
+            if (rol == null)
+            {
+                throw new ExcepcionesRoles("Rol no encontrado.");
+            }
             user.Rol = rol;
             RepositorioUsuario.Update(user);
         }

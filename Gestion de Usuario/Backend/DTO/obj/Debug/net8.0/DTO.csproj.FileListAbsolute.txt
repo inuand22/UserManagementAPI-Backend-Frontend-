@@ -32,3 +32,90 @@ F:\USUARIO\Desktop\ORT\Gestion de Usuarios\02-11\Gestion de Usuario\Backend\DTO\
 F:\USUARIO\Desktop\ORT\Gestion de Usuarios\02-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\refint\DTO.dll
 F:\USUARIO\Desktop\ORT\Gestion de Usuarios\02-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.pdb
 F:\USUARIO\Desktop\ORT\Gestion de Usuarios\02-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.csproj.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\02-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.csproj.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.csproj.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Propio\03-11 --EVENTOS VIGENTES Y NO VIGENTES--\Gestion de Usuario\Backend\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\Excepciones.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.csproj.Up2Date
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\36474516\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\Excepciones.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.csproj.Up2Date
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Documents\GitHub\Agenda_DIVRE\Backend\DTO\obj\Debug\net8.0\ref\DTO.dll

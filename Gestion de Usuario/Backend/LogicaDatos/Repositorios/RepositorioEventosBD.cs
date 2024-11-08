@@ -46,7 +46,7 @@ namespace LogicaDatos.Repositorios
                 throw new ExcepcionesEvento("Este Evento no existe");
             }
             bool existe = Contexto.Usuarios
-                .Where(usu => usu.Eventos.Any(eve => eve.id == id))
+                .Where(usu => usu.Eventos.Any(eve => eve.Id == id))
                 .Count() > 0;
             if (existe)
             {
@@ -74,7 +74,7 @@ namespace LogicaDatos.Repositorios
             {
                 throw new ExcepcionesEvento("El id no puede ser cero");
             }
-            return Contexto.Eventos.Where(eve => eve.id == id)
+            return Contexto.Eventos.Where(eve => eve.Id == id)
                 .Include(eve => eve.User)
                 .Include(eve => eve.TipoTramite)
                 .FirstOrDefault();
@@ -82,7 +82,7 @@ namespace LogicaDatos.Repositorios
 
         public void Update(Evento obj)
         {
-            Evento buscado = FindById(obj.id);
+            Evento buscado = FindById(obj.Id);
             if (buscado != null)
             {
                 Contexto.Entry(buscado).State = EntityState.Detached;
@@ -130,5 +130,26 @@ namespace LogicaDatos.Repositorios
                .Where(eve => eve.TipoTramite.Id == IdTipoTramite)
                .ToList();
         }
+
+        public IEnumerable<Evento> FindEventoFuturo()
+        {
+            return Contexto.Eventos
+                .Include(eve => eve.User)
+                .Include(eve => eve.TipoTramite)
+                .Where(eve => eve.FechaEvento >= DateTime.Now)
+                .OrderBy(eve => eve.FechaEvento)
+                .ToList();
+        }
+
+        public IEnumerable<Evento> FindEventoPasado()
+        {
+            return Contexto.Eventos
+                .Include(eve => eve.User)
+                .Include(eve => eve.TipoTramite)
+            .Where(eve => eve.FechaEvento < DateTime.Now)
+            .OrderBy(eve => eve.FechaEvento)
+            .ToList();
+        }
     }
 }
+

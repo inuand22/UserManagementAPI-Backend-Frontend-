@@ -14,5 +14,7 @@ namespace LogicaNegocio.InterfacesRepositorio
         IEnumerable<Evento> FindXFecha(DateTime fecha);
         IEnumerable<Evento> FindXUserId(int id);
         IEnumerable<Evento> FindXTipoTramite(int idTipoTramite);
+        IEnumerable<Evento> FindEventoFuturo();
+        IEnumerable<Evento> FindEventoPasado();
     }
 }
